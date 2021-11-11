@@ -1,0 +1,13 @@
+hardfinger
+@Author: fabricfc@gmail.com
+
+App para detecção de arquivos desnecessários para organizações
+
+* Baseado em heurísticas
+** Lista de palavras chaves
+** tamanhos de arquivos
+** Adaptável para novas heurísticas
+
+ps: funciona, mas pode melhorar muito.
+
+Licença: Apache-2.0
